@@ -33,5 +33,13 @@ We’re excited to see what you come up with!
 
 – Jon Clark, Founder  
 [https://tekly.dev](https://tekly.dev)
+[https://crypt0nest.io](https://crypt0nest.io)
+---
+
+### 👋 About Tekly Studio & Crypt0nest.io
+
+This challenge is hosted by **Tekly Studio**, a founder-led innovation lab exploring AI, crypto, and next-gen digital products. Our current flagship project is [Crypt0nest.io](https://crypt0nest.io), a predictive crypto intelligence platform combining explainable AI and portfolio tools.
+
+We’re backed by **Google Cloud for Startups**, work with advanced AI tools, and operate fully remote with a global technical team. This is an early-stage repo under active development—perfect for builders who want to shape something from the ground up.
 
 > ⚡ This is an early-stage project under active development by the founding team at Tekly Studio and Crypt0nest.io. We’re building fast and lean — and excited to collaborate with builders who thrive in that kind of environment.
