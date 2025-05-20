@@ -4,8 +4,6 @@ Welcome to the **Tekly Studio internship challenge**!
 
 This is your chance to show us how you think, build, and communicate.
 
-> ⚡ This is an early-stage project under active development by the founding team at Tekly Studio. We’re building fast and lean — and excited to collaborate with builders who thrive in that kind of environment.
-
 ## 📌 Instructions
 
 1. Browse the `/challenges` folder and pick the one that matches your interest:
@@ -35,3 +33,5 @@ We’re excited to see what you come up with!
 
 – Jon Clark, Founder  
 [https://tekly.dev](https://tekly.dev)
+
+> ⚡ This is an early-stage project under active development by the founding team at Tekly Studio. We’re building fast and lean — and excited to collaborate with builders who thrive in that kind of environment.
