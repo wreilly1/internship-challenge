@@ -8,7 +8,7 @@ Welcome! This challenge is designed to assess your understanding of machine lear
 
 Build a simple ML model that predicts cryptocurrency or stock price movement (up or down) based on public historical price data.
 
-You may use any public data source (e.g., CoinGecko API, Kaggle datasets, or CSV files). Your focus should be on:
+You may use any public data source (e.g., CoinGecko API, Yahoo Finance API, Kaggle datasets, or CSV files). Your focus should be on:
 - Feature selection
 - Model choice (baseline is fine)
 - Evaluation metrics
