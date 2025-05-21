@@ -32,7 +32,6 @@ This is your chance to show us how you think, build, and communicate.
 We’re excited to see what you come up with!
 
 – Jon Clark, Founder  
-[https://tekly.dev](https://tekly.dev)
 [https://crypt0nest.io](https://crypt0nest.io)
 ---
 
